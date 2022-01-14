@@ -17,7 +17,7 @@ function About() {
               About
             </h1>
             <p className="description">
-              I'm Anastasia Rambaud. I'm a web-developper.{' '}
+              I'm Anastasia Rambaud. I'm a web-developer.{' '}
             </p>
           </div>
         </div>

@@ -17,7 +17,7 @@ function Home() {
             <h1 data-cy="homePageTitle" className="title">
               Hello and welcome to my portfolio !
             </h1>
-            <p className="description">I am a web-developper.</p>
+            <p className="description">I am a web-developer.</p>
 
             <Link href="/contact">
               <a className="cta">Contact me</a>
